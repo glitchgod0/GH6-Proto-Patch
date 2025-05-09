@@ -1,5 +1,5 @@
 # GH6-Proto-Patch
-This patch does a couple small QoL fixes to the Guitar Hero 6 First Playable Prototype. These patches are
+This patch does a couple small QoL fixes to the Guitar Hero 6 First Playable Prototype. These patches are:
 - Show the Music Test (MT) songs in the Song Select menu
 - Show all venues in the Venue Select submenu
 - Disable the Select "Viewer" debug menu
