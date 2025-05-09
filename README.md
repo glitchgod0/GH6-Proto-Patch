@@ -14,4 +14,4 @@ This patch does a couple small QoL fixes to the Guitar Hero 6 First Playable Pro
 ## Notes
 This mod is incapatible with saves from the base game. This is due to the venue additions.
 > [!CAUTION]
-> Avoid running the GH6 prototype on Xbox Live, This has a high risk of a console and even an account ban
+> Avoid running the GH6 prototype on Xbox Live, This has a high risk of a console ban and even an account ban
