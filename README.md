@@ -12,6 +12,6 @@ This patch does a couple small QoL fixes to the Guitar Hero 6 First Playable Pro
 - Select 'Unlock All' in the debug menu to see all venues.
 
 ## Notes
-This mod is incapatible with saves from the base game. This is due to the venue additions.
+This mod is incapatible with saves from the vanilla prototype. This is due to the venue additions.
 > [!CAUTION]
 > Avoid running the GH6 prototype on Xbox Live, This has a high risk of a console ban and even an account ban
